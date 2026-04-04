@@ -24,12 +24,11 @@ Strong interest in frontend development with a focus on clean UI and smooth user
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=akashs-penoft&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=akashs-penoft&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashs-penoft&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashs-penoft&layout=compact&theme=tokyonight&cache_seconds=1800)
 
----
-
+----
 ## 🌐 Connect
 - 💼 LinkedIn: [linkedin.com/in/akash-s-mahe](https://www.linkedin.com/in/akash-s-mahe/)
 - 📧 Email: [akashspalloor@gmail.com](mailto:akashspalloor@gmail.com)
