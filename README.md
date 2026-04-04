@@ -21,12 +21,6 @@ Strong interest in frontend development with a focus on clean UI and smooth user
 - **Database:** MongoDB / MySQL  
 - **Tools:** Git, GitHub  
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akashs-penoft&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashs-penoft&layout=compact&theme=tokyonight)
 
 ----
 ## 🌐 Connect
