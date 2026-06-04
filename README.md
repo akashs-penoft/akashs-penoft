@@ -1,12 +1,12 @@
 # Hi, I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
-🚀 Full Stack Developer  
+🚀 Associate Software Developer  
 🎯 Frontend Enthusiast  
 
 ---
 
 ## 🧑‍💻 About Me
-I'm a full stack developer who enjoys building modern, scalable web applications.  
+I'm a Software developer who enjoys building modern, scalable web applications.  
 Strong interest in frontend development with a focus on clean UI and smooth user experience.  
 
 - 💼 Currently working and gaining real-world experience  
